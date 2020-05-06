@@ -86,4 +86,7 @@ After extracting the files,
 |  Pitch text| The actual pitch body|
 | Comment| A comment on the pitch|
 
+## License
+> MIT License &copy; 2020 hukish
+
 
