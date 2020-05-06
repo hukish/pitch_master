@@ -78,3 +78,12 @@ After extracting the files,
 | Password  | Account password, ``eg parseword``|
 | Confirm Password  | Account password, ``eg parseword``|
 
+> Pitches inputs
+
+| Inputs | Description  |
+|---|---|
+|  Heading | Pitch description eg; ``love``  |
+|  Pitch text| The actual pitch body|
+| Comment| A comment on the pitch|
+
+
