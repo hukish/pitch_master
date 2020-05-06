@@ -59,3 +59,5 @@ After extracting the files,
 * As a user, I would like to comment on the different pitches and leave feedback.
 * As a user, I would like to submit a pitch in any category.
 * As a user, I would like to view the different categories. 
+
+## BDD(Behaviour Driven Development)
