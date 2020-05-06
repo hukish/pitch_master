@@ -61,3 +61,10 @@ After extracting the files,
 * As a user, I would like to view the different categories. 
 
 ## BDD(Behaviour Driven Development)
+
+>Login Inputs
+
+| Inputs |  Description |
+| :---         |          ---: |
+| Username  | Account username, ``eg kik``|
+| Password  | Account password, ``eg 123``|
