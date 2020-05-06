@@ -11,3 +11,12 @@ Here is the a link to the application
 2. [virtualenv](https://docs.python-guide.org/dev/virtualenvs/)
 3. [Pip](https://pypi.org/)
 4.  [Flask](http://flask.pocoo.org/)
+
+## Technologies used
+```
+- Python3.6
+- Bootstrap 4
+- Heroku
+- Flask
+- Flask-script
+- Flask-WTF
