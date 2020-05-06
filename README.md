@@ -20,3 +20,8 @@ Here is the a link to the application
 - Flask
 - Flask-script
 - Flask-WTF
+
+## Installations
+
+  The following command installs all the application requirements
+   >``pip freeze -r requirements.txt``
