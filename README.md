@@ -89,4 +89,6 @@ After extracting the files,
 ## License
 > MIT License &copy; 2020 hukish
 
+## Collaborate
+To collaborate, reach me on [hudsonhukish@gmail.com]()
 
