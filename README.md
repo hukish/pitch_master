@@ -68,3 +68,13 @@ After extracting the files,
 | :---         |          ---: |
 | Username  | Account username, ``eg kik``|
 | Password  | Account password, ``eg 123``|
+
+>Signup inputs
+
+| Inputs |  Description |
+| :---         |          ---: |
+| Username  | Account username, ``eg jui``|
+| Email  | User email, ``eg y@mail.com``|
+| Password  | Account password, ``eg parseword``|
+| Confirm Password  | Account password, ``eg parseword``|
+
